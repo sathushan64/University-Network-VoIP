@@ -1,5 +1,4 @@
 # University-Network-VoIP
-# University-Network-VoIP
 
 ## Overview
 A fully configured VoIP network for ABC University designed 
